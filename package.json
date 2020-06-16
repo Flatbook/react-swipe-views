@@ -46,7 +46,7 @@
     "eslint-config-defaults": "^6.0.0",
     "eslint-plugin-react": "^3.3.2",
     "onchange": "~2.0.0",
-    "parallelshell": "~2.0.0",
+    "parallelshell": "~3.0.2",
     "postcss-cli": "^2.2.0",
     "uglify-js": "~2.5.0"
   }
