@@ -42,7 +42,7 @@
     "babel": "~5.8.23",
     "babel-eslint": "^4.1.3",
     "clean-css": "~3.4.5",
-    "eslint": "^1.4.3",
+    "eslint": "^7.20.0",
     "eslint-config-defaults": "^6.0.0",
     "eslint-plugin-react": "^3.3.2",
     "onchange": "~2.0.0",
